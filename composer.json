@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "kriswallsmith/assetic": "1.2.*@dev",
+        "kriswallsmith/assetic": "*"
         "php": ">=5.3.0"
     },
     "autoload": {
